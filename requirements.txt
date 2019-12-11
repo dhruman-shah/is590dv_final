@@ -5,5 +5,4 @@ bqplot
 matplotlib
 squarify
 datetime
-warnings
 pandas
