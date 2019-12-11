@@ -3,7 +3,6 @@ ipywidgets
 nbinteract
 bqplot
 matplotlib
-calendar
 squarify
 datetime
 warnings
